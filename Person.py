@@ -1,0 +1,18 @@
+class Person:
+    uid = ""
+    phone_number = ""
+    status = ""
+    phone_type = ""
+    send_email_on_match = ""
+    first_name = ""
+    is_anonymous = ""
+    house_size = ""
+    email =""
+    last_name = ""
+    uid = ""
+    number_of_vendors_per_request = ""
+    photo_url = ""
+    email_verified = ""
+    vendor_preference = ""
+    geopoint = ""
+
