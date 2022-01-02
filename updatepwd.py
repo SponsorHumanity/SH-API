@@ -41,6 +41,6 @@ else:
 
 user = auth.update_user(
     sponsor_humanity_uid,
-    password='newPassword',
+    password=sponsor_humanity_pwd,
 )
 print('Sucessfully updated user: {0}'.format(user.uid))
